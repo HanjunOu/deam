@@ -1,6 +1,8 @@
-print(2+2)
+# get information
+this_is_a_variable = float(input("Please give me a number "))
 
-a=int(1)
-print(1+a)
-n=17
-print(n)
+# do calculation
+caluclated_answer = this_is_a_variable + 2
+
+# give output
+print(caluclated_answer)
